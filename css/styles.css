@@ -43,21 +43,49 @@ img#me {
     align-self: center;
 }
 
+div#lightgallery img {
+    width: 300px;
+    height: auto;
+}
+
+div#lightgallery img:hover {
+    cursor: pointer;
+}
+
 h1#gal {
     font-size: 3em;
 }
 
-a#no {
-    display: none;
-}
+a {}
 
 div#lightgallery {
-    display: flex;
-    text-align: center;
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: center;
+    align-content: center;
+    row-gap: 1em;
+    column-gap: 2em;
+}
+
+.itemCol1 {
+    grid-column: 1;
+}
+
+.itemCol2 {
+    grid-column: 1;
+}
+
+.itemCol2 {
+    grid-column: 2;
+}
+
+.itemRow2 {
+    grid-row: 2;
 }
 
 nav a {
     width: 100%;
+    padding-top: 1em;
 }
 
 section#logo {
@@ -109,7 +137,6 @@ section#words p {
     padding-left: 2em;
     padding-right: 2em;
     text-align: left;
-    white-space: no-wrap;
     overflow: hidden;
     text-overflow: ellipsis;
 }
