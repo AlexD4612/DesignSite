@@ -6,12 +6,25 @@ body {
     justify-content: center;
 }
 
+body#design {
+    background: white !important;
+}
+
 body#home {
     height: 100%;
     width: 100%;
     padding: 0px;
     margin: 0px;
     overflow: hidden;
+}
+
+rect#designlink1:hover {
+    fill: black;
+    stroke: white;
+}
+
+section#desn {
+    align-self: center;
 }
 
 body#about {
@@ -27,6 +40,13 @@ h1 {
     text-align: center;
 }
 
+body#design h1 {
+    color: black;
+    font-family: "Josefin Sans Light";
+    text-align: center;
+    font-size: 4em;
+}
+
 section#title h1 {
     padding: .2em 0 1em 0;
     margin: 0;
@@ -35,6 +55,14 @@ section#title h1 {
 a {
     color: white;
     text-decoration: none;
+}
+
+nav {
+    pointer-events: none;
+}
+
+nav img {
+    pointer-events: auto;
 }
 
 img#me {
@@ -148,6 +176,10 @@ section#subwords {
 
 img#ig {
     width: 3%;
+}
+
+img#gh {
+    width: 12%;
 }
 
 img#tik {
