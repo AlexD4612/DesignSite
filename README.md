@@ -5,7 +5,7 @@ Portfolio Site for my UX Design, Photography, and CS work.
   - Photography Page
     - Add photos
   - Design Page
-    ~~- Types of design work~~
+    -~~Types of design work~~
   - UX
   - Web
   - Logos
@@ -13,6 +13,6 @@ Portfolio Site for my UX Design, Photography, and CS work.
   - CS Page
     - Show examples of works and breif summary, see figma for example.
   - About page
-    ~~- Self-summary~~
+    -~~Self-summary~~
     - Links to socials/github
     
