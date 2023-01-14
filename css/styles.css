@@ -6,10 +6,6 @@ body {
     justify-content: center;
 }
 
-body#design {
-    background: white !important;
-}
-
 body#home {
     height: 100%;
     width: 100%;
@@ -41,9 +37,6 @@ h1 {
 }
 
 body#design h1 {
-    color: black;
-    font-family: "Josefin Sans Light";
-    text-align: center;
     font-size: 4em;
 }
 
@@ -83,8 +76,6 @@ div#lightgallery img:hover {
 h1#gal {
     font-size: 3em;
 }
-
-a {}
 
 div#lightgallery {
     display: grid;
