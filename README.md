@@ -2,8 +2,8 @@
 Portfolio Site for my UX Design, Photography, and CS work.
 ## To do:
 - General Structure
-  - Photography Page
-    - Add photos
+  - ~~Photography Page~~
+    - ~~Add photos~~
   - Design Page
     - ~~Types of design work~~
   - ~~UX~~
