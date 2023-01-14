@@ -30,10 +30,15 @@ body#about {
 }
 
 p,
-h1 {
+h1,
+h2 {
     color: white;
     font-family: "Josefin Sans Light";
     text-align: center;
+}
+
+h2 {
+    font-size: 3em;
 }
 
 body#design h1 {
