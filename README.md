@@ -8,9 +8,9 @@ Portfolio Site for my UX Design, Photography, and CS work.
      - ~~UX~~
      - ~~Web~~
      - ~~Logos~~
-     - For each category, show examples of works and breif summary, see figma for example.
+     - For each category, show examples of works and brief summary, see figma for example.
   - CS Page
-    - Show examples of works and breif summary, see figma for example.
+    - Show examples of works and brief summary, see figma for example.
   - About page
     - ~~Self-summary~~
     - Links to socials/github
